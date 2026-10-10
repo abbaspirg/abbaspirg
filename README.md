@@ -3,14 +3,14 @@
 <div align="center">
 
 <a href="https://github.com/abbaspirg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=714B67&center=true&vCenter=true&width=600&lines=Odoo+Developer+%40+Cybrosys+Technologies;Custom+Modules+%26+Integrations;Odoo+15+%7C+16+%7C+17+Migrations;Python+%C2%B7+PostgreSQL+%C2%B7+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=714B67&center=true&vCenter=true&width=600&lines=Odoo+Developer+%40+Cybrosys+Technologies;Custom+Modules+%26+Integrations;Odoo+15+%E2%86%92+19+Migrations;Python+%C2%B7+PostgreSQL+%C2%B7+JavaScript" alt="Typing SVG" />
 </a>
 
 </div>
 
 ## 👨‍💻 About Me
 
-Odoo Functional/Technical Consultant at [Cybrosys Technologies](https://www.cybrosys.com), India. I design, build, and implement Odoo ERP solutions: custom modules, third-party integrations, version migrations, and live-environment support.
+Odoo Functional/Technical Consultant at [Cybrosys Technologies](https://www.cybrosys.com), India. I design, build, and implement Odoo ERP solutions: custom modules, third-party integrations, version migrations (Odoo 15 to 19), and live-environment support.
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +31,7 @@ Odoo Functional/Technical Consultant at [Cybrosys Technologies](https://www.cybr
 - 🤝 **Affiliate Management:** unique links/codes, sales tracking, commissions
 - 🚗 **Travels Management:** vehicle booking and reservation
 - 🍽️ **POS customizations:** table reservation, discount limits, returns, queue management
-- 🔄 **Migrations & upgrades:** custom modules moved from Odoo 16 to 17
+- 🔄 **Migrations & upgrades:** custom modules migrated across Odoo versions, from 15 up to 19
 - 🌐 **Website work:** dynamic snippets, responsive pages, org chart snippet
 - ⚙️ **Utilities:** task timer, SQL query runner with Excel export, Redis session store, approval workflows
 - 📊 **Reporting:** custom PDF and XLS reports
@@ -42,6 +42,7 @@ Odoo Functional/Technical Consultant at [Cybrosys Technologies](https://www.cybr
 
 ## 📊 GitHub Stats
 
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbaspirg&layout=compact&theme=radical&hide_border=true" />
 </p>
 
