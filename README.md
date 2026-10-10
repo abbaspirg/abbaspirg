@@ -51,6 +51,6 @@ Bachelor of Computer Applications (BCA), MCAS
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-p-a5736a231)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:017E84,100:714B67&height=100&section=footer" width="100%" alt="footer" />
